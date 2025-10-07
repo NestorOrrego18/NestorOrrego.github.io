@@ -38,8 +38,6 @@
         Liceo Campestre Andino, Yopal - Casanare.<br>
         <em>2021</em>
 
-      </li>
-    </ul>
   </section>
   
   <section>
